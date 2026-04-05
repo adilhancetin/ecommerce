@@ -2,6 +2,7 @@
 
 A full-stack e-commerce web application for browsing and reviewing unique items across five categories: **Vinyls**, **Antique Furniture**, **GPS Sport Watches**, **Running Shoes**, and **Camping Tents**.
 
+
 ## 🔗 Live Deployment
 
 > **Vercel URL:** _(add your Vercel deployment URL here)_
