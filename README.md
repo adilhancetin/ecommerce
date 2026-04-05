@@ -5,7 +5,7 @@ A full-stack e-commerce web application for browsing and reviewing unique items 
 
 ## 🔗 Live Deployment
 
-> **Vercel URL:** _(add your Vercel deployment URL here)_
+> **Vercel URL:** https://project-8pzjl.vercel.app
 
 ---
 
